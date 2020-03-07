@@ -1,5 +1,5 @@
-CakePHP Folder Structure
-########################
+Estructura de las carpetas de CakePHP
+#####################################
 
 Después de haber descargado y extraido la aplicación CakePHP, estos son los
 archivos y directorios que podrás ver:
